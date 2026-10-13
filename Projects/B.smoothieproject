@@ -1,0 +1,854 @@
+{
+  "Version": 4,
+  "CameraTarget": [
+    327.62457,
+    -580.99536
+  ],
+  "CameraZoom": 0.19487172,
+  "Entities": [
+    {
+      "Name": "Circle",
+      "Shape": "Circle",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        23,
+        -1175
+      ],
+      "Rotation": 0,
+      "Scale": [
+        1,
+        1
+      ],
+      "Color": "7PDx/w==",
+      "Physics": {
+        "Type": "Dynamic",
+        "GravityScale": 1.3500003,
+        "Mass": 1.85,
+        "Restitution": 0.65999997,
+        "Friction": 0.06,
+        "Velocity": [
+          0,
+          0
+        ],
+        "AngularDamping": 0.050000004,
+        "LockRotation": false
+      },
+      "Collider": {
+        "Shape": "Circle",
+        "Size": [
+          0.97,
+          1.0600001
+        ],
+        "IsTrigger": false
+      }
+    },
+    {
+      "Name": "Balance",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        21.196045,
+        -338.64487
+      ],
+      "Rotation": 1,
+      "Scale": [
+        5.89,
+        0.50000006
+      ],
+      "Color": "50w8/w==",
+      "Physics": {
+        "Type": "Static",
+        "GravityScale": 1,
+        "Mass": 1,
+        "Restitution": 0.14,
+        "Friction": 0.33,
+        "Velocity": [
+          0,
+          0
+        ],
+        "AngularDamping": 0.38,
+        "LockRotation": false
+      },
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      }
+    },
+    {
+      "Name": "Spawn",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        32,
+        -1095
+      ],
+      "Rotation": 0,
+      "Scale": [
+        2.4499998,
+        0.22000003
+      ],
+      "Color": "8cQP/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      }
+    },
+    {
+      "Name": "Text1",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        559.03345,
+        -1360.623
+      ],
+      "Rotation": -46,
+      "Scale": [
+        0.120000005,
+        0.92
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        562.0763,
+        -1420.315
+      ],
+      "Rotation": 47,
+      "Scale": [
+        0.120000005,
+        0.92
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        565.119,
+        -1301.2126
+      ],
+      "Rotation": 47,
+      "Scale": [
+        0.120000005,
+        0.92
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        646.5803,
+        -1359.3363
+      ],
+      "Rotation": 0,
+      "Scale": [
+        0.120000005,
+        1.94
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        686.6616,
+        -1385.3446
+      ],
+      "Rotation": -27,
+      "Scale": [
+        0.83000004,
+        0.110000074
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        779.79785,
+        -1359.4303
+      ],
+      "Rotation": 24,
+      "Scale": [
+        0.120000005,
+        1.94
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        842.4387,
+        -1357.9559
+      ],
+      "Rotation": -15,
+      "Scale": [
+        0.120000005,
+        1.94
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        808.42737,
+        -1333.3313
+      ],
+      "Rotation": 0,
+      "Scale": [
+        0.88,
+        0.1400001
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        949.3324,
+        -1401.31
+      ],
+      "Rotation": -53,
+      "Scale": [
+        1.06,
+        0.1400001
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        946.3114,
+        -1317.7207
+      ],
+      "Rotation": -126,
+      "Scale": [
+        1.06,
+        0.1400001
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        1052.6969,
+        -1355.7289
+      ],
+      "Rotation": -89,
+      "Scale": [
+        1.8399999,
+        0.1400001
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        1100.0122,
+        -1350.4191
+      ],
+      "Rotation": -89,
+      "Scale": [
+        0.16999994,
+        0.95000005
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        1098.7588,
+        -1440.9337
+      ],
+      "Rotation": -89,
+      "Scale": [
+        0.16999994,
+        0.95000005
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        1094.8208,
+        -1270.287
+      ],
+      "Rotation": -89,
+      "Scale": [
+        0.16999994,
+        0.95000005
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        348.85217,
+        -1195.1456
+      ],
+      "Rotation": -115,
+      "Scale": [
+        0.120000005,
+        2.78
+      ],
+      "Color": "m1m2/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        267.1236,
+        -1129.8258
+      ],
+      "Rotation": -82,
+      "Scale": [
+        0.11000001,
+        0.93000007
+      ],
+      "Color": "m1m2/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        249.43213,
+        -1174.7924
+      ],
+      "Rotation": -142,
+      "Scale": [
+        0.11000001,
+        0.93000007
+      ],
+      "Color": "m1m2/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Text1 Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        684.1601,
+        -1428.8805
+      ],
+      "Rotation": -147,
+      "Scale": [
+        0.83000004,
+        0.110000074
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Square (20)",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": 1,
+      "Position": [
+        19.179626,
+        -297.01007
+      ],
+      "Rotation": -2,
+      "Scale": [
+        3.8904037,
+        0.26388893
+      ],
+      "Color": "/7UP/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Square (20) Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": 1,
+      "Position": [
+        2.399437,
+        -277.62964
+      ],
+      "Rotation": 3,
+      "Scale": [
+        1.8835384,
+        0.09500001
+      ],
+      "Color": "//+T/w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Square (20) Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": 1,
+      "Position": [
+        8.151594,
+        -266.57428
+      ],
+      "Rotation": -5,
+      "Scale": [
+        0.73996145,
+        0.08444445
+      ],
+      "Color": "/////w==",
+      "Physics": null,
+      "Collider": null
+    },
+    {
+      "Name": "Triangle",
+      "Shape": "Triangle",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        0.009277344,
+        5626.3877
+      ],
+      "Rotation": -307,
+      "Scale": [
+        4.25,
+        100
+      ],
+      "Color": "/wAA/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1.6400001,
+          1
+        ],
+        "IsTrigger": false
+      }
+    },
+    {
+      "Name": "Triangle Copy",
+      "Shape": "Triangle",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        15.918457,
+        5624.1147
+      ],
+      "Rotation": -404,
+      "Scale": [
+        4.25,
+        100
+      ],
+      "Color": "AAD//w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1.6400001,
+          1
+        ],
+        "IsTrigger": false
+      }
+    }
+  ],
+  "Vs": {
+    "Pan": [
+      931,
+      -30
+    ],
+    "Nodes": [
+      {
+        "Name": "Rotate 1",
+        "Kind": "Rotate",
+        "X": 831,
+        "Y": 519.5,
+        "Target": 1,
+        "Key": "Right",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": 120,
+        "AmountX": 0,
+        "AmountY": 0,
+        "PerSecond": true
+      },
+      {
+        "Name": "Key 8",
+        "Kind": "Key",
+        "X": -100,
+        "Y": 372.5,
+        "Target": -1,
+        "Key": "S",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": 0,
+        "AmountX": 0,
+        "AmountY": 0,
+        "PerSecond": true
+      },
+      {
+        "Name": "Scale 1",
+        "Kind": "Scale",
+        "X": 323,
+        "Y": 548.5,
+        "Target": 1,
+        "Key": "Right",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": 0,
+        "AmountX": 30,
+        "AmountY": 0,
+        "PerSecond": true
+      },
+      {
+        "Name": "Key 9",
+        "Kind": "Key",
+        "X": 1354,
+        "Y": 395.5,
+        "Target": -1,
+        "Key": "Space",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": 0,
+        "AmountX": 0,
+        "AmountY": 0,
+        "PerSecond": true
+      },
+      {
+        "Name": "Move 1",
+        "Kind": "Move",
+        "X": 1346,
+        "Y": 524.5,
+        "Target": 2,
+        "Key": "Right",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": 0,
+        "AmountX": 2188,
+        "AmountY": 1229,
+        "PerSecond": false
+      },
+      {
+        "Name": "Scale 4",
+        "Kind": "Scale",
+        "X": -97,
+        "Y": 505.5,
+        "Target": 1,
+        "Key": "Right",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": 0,
+        "AmountX": 0,
+        "AmountY": -10,
+        "PerSecond": true
+      },
+      {
+        "Name": "Key 7",
+        "Kind": "Key",
+        "X": 118,
+        "Y": 369.5,
+        "Target": -1,
+        "Key": "W",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": 0,
+        "AmountX": 0,
+        "AmountY": 0,
+        "PerSecond": true
+      },
+      {
+        "Name": "Rotate 2",
+        "Kind": "Rotate",
+        "X": 1081,
+        "Y": 522.5,
+        "Target": 1,
+        "Key": "Right",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": -120,
+        "AmountX": 0,
+        "AmountY": 0,
+        "PerSecond": true
+      },
+      {
+        "Name": "Scale 2",
+        "Kind": "Scale",
+        "X": 537,
+        "Y": 547.5,
+        "Target": 1,
+        "Key": "Right",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": 0,
+        "AmountX": -30,
+        "AmountY": 0,
+        "PerSecond": true
+      },
+      {
+        "Name": "Scale 3",
+        "Kind": "Scale",
+        "X": 118,
+        "Y": 498.5,
+        "Target": 1,
+        "Key": "Right",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": 0,
+        "AmountX": 0,
+        "AmountY": 10,
+        "PerSecond": true
+      },
+      {
+        "Name": "Key 1",
+        "Kind": "Key",
+        "X": 338,
+        "Y": 370.5,
+        "Target": -1,
+        "Key": "D",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": 0,
+        "AmountX": 0,
+        "AmountY": 0,
+        "PerSecond": true
+      },
+      {
+        "Name": "Key 6",
+        "Kind": "Key",
+        "X": 544,
+        "Y": 368.5,
+        "Target": -1,
+        "Key": "A",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": 0,
+        "AmountX": 0,
+        "AmountY": 0,
+        "PerSecond": true
+      },
+      {
+        "Name": "Key 2",
+        "Kind": "Key",
+        "X": 823,
+        "Y": 390.5,
+        "Target": -1,
+        "Key": "Right",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": 0,
+        "AmountX": 0,
+        "AmountY": 0,
+        "PerSecond": true
+      },
+      {
+        "Name": "Key 4",
+        "Kind": "Key",
+        "X": 1075,
+        "Y": 389.5,
+        "Target": -1,
+        "Key": "Left",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": 0,
+        "AmountX": 0,
+        "AmountY": 0,
+        "PerSecond": true
+      },
+      {
+        "Name": "Start 2",
+        "Kind": "Start",
+        "X": -518,
+        "Y": 288.5,
+        "Target": -1,
+        "Key": "Right",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": 0,
+        "AmountX": 0,
+        "AmountY": 0,
+        "PerSecond": true
+      },
+      {
+        "Name": "Update 3",
+        "Kind": "Update",
+        "X": -545,
+        "Y": 681.5,
+        "Target": -1,
+        "Key": "Right",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": 0,
+        "AmountX": 0,
+        "AmountY": 0,
+        "PerSecond": true
+      },
+      {
+        "Name": "Rotate 4",
+        "Kind": "Rotate",
+        "X": -354,
+        "Y": 464.5,
+        "Target": 25,
+        "Key": "Right",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": -628,
+        "AmountX": 0,
+        "AmountY": 0,
+        "PerSecond": true
+      },
+      {
+        "Name": "Rotate 3",
+        "Kind": "Rotate",
+        "X": -749,
+        "Y": 444.5,
+        "Target": 24,
+        "Key": "Right",
+        "Trigger": "Held",
+        "Check": "KeyHeld",
+        "Value": 628,
+        "AmountX": 0,
+        "AmountY": 0,
+        "PerSecond": true
+      }
+    ],
+    "Links": [
+      {
+        "A": 10,
+        "B": 2,
+        "Port": 0
+      },
+      {
+        "A": 12,
+        "B": 0,
+        "Port": 0
+      },
+      {
+        "A": 11,
+        "B": 8,
+        "Port": 0
+      },
+      {
+        "A": 13,
+        "B": 7,
+        "Port": 0
+      },
+      {
+        "A": 1,
+        "B": 5,
+        "Port": 0
+      },
+      {
+        "A": 6,
+        "B": 9,
+        "Port": 0
+      },
+      {
+        "A": 3,
+        "B": 4,
+        "Port": 0
+      },
+      {
+        "A": 14,
+        "B": 17,
+        "Port": 0
+      },
+      {
+        "A": 15,
+        "B": 17,
+        "Port": 0
+      },
+      {
+        "A": 14,
+        "B": 16,
+        "Port": 0
+      },
+      {
+        "A": 15,
+        "B": 16,
+        "Port": 0
+      }
+    ]
+  }
+}

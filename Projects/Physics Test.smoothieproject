@@ -1,0 +1,779 @@
+{
+  "Version": 6,
+  "CameraTarget": [
+    -366.6479,
+    -212.59683
+  ],
+  "CameraZoom": 1.4455388,
+  "Entities": [
+    {
+      "Name": "Square",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -150,
+        -325
+      ],
+      "Rotation": 0,
+      "Scale": [
+        1,
+        1
+      ],
+      "Color": "50w8/w==",
+      "Physics": {
+        "Type": "Dynamic",
+        "GravityScale": 1,
+        "Mass": 1,
+        "Restitution": 0,
+        "Friction": 0.4,
+        "Velocity": [
+          0,
+          0
+        ],
+        "AngularDamping": 0.1,
+        "LockRotation": false
+      },
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (3)",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -75,
+        0
+      ],
+      "Rotation": 0,
+      "Scale": [
+        5.63,
+        0.24000001
+      ],
+      "Color": "Lsxx/w==",
+      "Physics": {
+        "Type": "Static",
+        "GravityScale": 1,
+        "Mass": 1,
+        "Restitution": 1,
+        "Friction": 0.4,
+        "Velocity": [
+          0,
+          0
+        ],
+        "AngularDamping": 0.1,
+        "LockRotation": false
+      },
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (4)",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -100,
+        -450
+      ],
+      "Rotation": 0,
+      "Scale": [
+        1,
+        1
+      ],
+      "Color": "8cQP/w==",
+      "Physics": {
+        "Type": "Dynamic",
+        "GravityScale": 2,
+        "Mass": 1,
+        "Restitution": 0,
+        "Friction": 0.4,
+        "Velocity": [
+          0,
+          0
+        ],
+        "AngularDamping": 0.1,
+        "LockRotation": false
+      },
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -519.7323,
+        -495.429
+      ],
+      "Rotation": 0,
+      "Scale": [
+        3.2699997,
+        0.42000026
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -597.09344,
+        -400.7734
+      ],
+      "Rotation": -80,
+      "Scale": [
+        3.2699997,
+        0.42000026
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -544.6306,
+        -491.866
+      ],
+      "Rotation": -236,
+      "Scale": [
+        3.2699997,
+        0.42000026
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -587.6635,
+        -420.05444
+      ],
+      "Rotation": -248,
+      "Scale": [
+        3.2699997,
+        0.42000026
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -442.85962,
+        -580.46204
+      ],
+      "Rotation": -302,
+      "Scale": [
+        3.2699997,
+        0.42000026
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -492.75812,
+        -556.7104
+      ],
+      "Rotation": -325,
+      "Scale": [
+        3.2699997,
+        0.42000026
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -466.635,
+        -246.24283
+      ],
+      "Rotation": -94,
+      "Scale": [
+        0.24,
+        0.26000026
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -471.43854,
+        -221.24283
+      ],
+      "Rotation": -94,
+      "Scale": [
+        0.24,
+        0.26000026
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -475.66888,
+        -187.64566
+      ],
+      "Rotation": -94,
+      "Scale": [
+        0.24,
+        0.26000026
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -482.93762,
+        -80.285614
+      ],
+      "Rotation": -85,
+      "Scale": [
+        3.5399997,
+        0.33000025
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Triangle",
+      "Shape": "Triangle",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -465.55273,
+        -273.40448
+      ],
+      "Rotation": 6,
+      "Scale": [
+        0.36,
+        0.43
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Triangle",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -215.16522,
+        -526.4698
+      ],
+      "Rotation": 0,
+      "Scale": [
+        3.2699997,
+        0.42000026
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -255.98419,
+        -593.5946
+      ],
+      "Rotation": -236,
+      "Scale": [
+        3.2699997,
+        0.42000026
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -233.53156,
+        -549.4897
+      ],
+      "Rotation": -209,
+      "Scale": [
+        3.2699997,
+        0.42000026
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -227.63617,
+        -588.80927
+      ],
+      "Rotation": -225,
+      "Scale": [
+        3.2699997,
+        0.42000026
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -435.0119,
+        -48.280487
+      ],
+      "Rotation": -95,
+      "Scale": [
+        4.08,
+        0.05
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -395.44293,
+        32.753998
+      ],
+      "Rotation": -20,
+      "Scale": [
+        1.0899997,
+        0.53999996
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -444.96875,
+        -44.22876
+      ],
+      "Rotation": -103,
+      "Scale": [
+        2.0399997,
+        0.53
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -636.41785,
+        -134.14896
+      ],
+      "Rotation": -81,
+      "Scale": [
+        3.5399997,
+        0.33000025
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -494.5064,
+        -79.40225
+      ],
+      "Rotation": -81,
+      "Scale": [
+        3.5399997,
+        0.33000025
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (6) Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -587.8972,
+        66.56412
+      ],
+      "Rotation": -171,
+      "Scale": [
+        3.5399997,
+        0.33000025
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Triangle Copy",
+      "Shape": "Triangle",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -267.60687,
+        -73.38321
+      ],
+      "Rotation": 0,
+      "Scale": [
+        0.52,
+        1.36
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Triangle",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Triangle Copy Copy",
+      "Shape": "Triangle",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -167.89417,
+        -498.04254
+      ],
+      "Rotation": 180,
+      "Scale": [
+        0.52,
+        1.36
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Triangle",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Triangle Copy Copy Copy",
+      "Shape": "Triangle",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -201.00403,
+        -506.24817
+      ],
+      "Rotation": 151,
+      "Scale": [
+        0.52,
+        1.36
+      ],
+      "Color": "Gryc/w==",
+      "Physics": null,
+      "Collider": {
+        "Shape": "Triangle",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    }
+  ],
+  "Vs": {
+    "Graphs": [],
+    "Instances": []
+  }
+}

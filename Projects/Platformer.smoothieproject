@@ -1,0 +1,1604 @@
+{
+  "Version": 6,
+  "CameraTarget": [
+    177.59758,
+    -325.54868
+  ],
+  "CameraZoom": 1.051291,
+  "Entities": [
+    {
+      "Name": "Player",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        0,
+        -150
+      ],
+      "Rotation": 0,
+      "Scale": [
+        1,
+        0.05
+      ],
+      "Color": "50w8/w==",
+      "Physics": {
+        "Type": "Dynamic",
+        "GravityScale": 1,
+        "Mass": 1,
+        "Restitution": 0,
+        "Friction": 0.4,
+        "Velocity": [
+          0,
+          0
+        ],
+        "AngularDamping": 0.1,
+        "LockRotation": true
+      },
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1.0600001,
+          1.45
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": "Player"
+    },
+    {
+      "Name": "Square (3)",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": 11,
+      "Position": [
+        -20.217682,
+        -161.65985
+      ],
+      "Rotation": 0,
+      "Scale": [
+        0.31,
+        0.39
+      ],
+      "Color": "vMK8/w==",
+      "Physics": null,
+      "Collider": null,
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (3) Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": 11,
+      "Position": [
+        -0.19140625,
+        -230.43066
+      ],
+      "Rotation": 0,
+      "Scale": [
+        0.77,
+        0.90999997
+      ],
+      "Color": "vMK8/w==",
+      "Physics": null,
+      "Collider": null,
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (3) Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": 11,
+      "Position": [
+        9.126465,
+        -280.70407
+      ],
+      "Rotation": 0,
+      "Scale": [
+        0.48999998,
+        0.59
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null,
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (3) Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": 11,
+      "Position": [
+        20.28122,
+        -162.116
+      ],
+      "Rotation": 0,
+      "Scale": [
+        0.31,
+        0.39
+      ],
+      "Color": "vMK8/w==",
+      "Physics": null,
+      "Collider": null,
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (3) Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": 11,
+      "Position": [
+        43.815125,
+        -223.91534
+      ],
+      "Rotation": 0,
+      "Scale": [
+        0.31,
+        0.32
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null,
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (3) Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": 11,
+      "Position": [
+        -44.689148,
+        -224.32617
+      ],
+      "Rotation": 0,
+      "Scale": [
+        0.31,
+        0.32
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null,
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (4) Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        375,
+        -75
+      ],
+      "Rotation": 0,
+      "Scale": [
+        2.3199997,
+        0.1
+      ],
+      "Color": "Lsxx/w==",
+      "Physics": {
+        "Type": "Static",
+        "GravityScale": 1,
+        "Mass": 1,
+        "Restitution": 0,
+        "Friction": 0.4,
+        "Velocity": [
+          0,
+          0
+        ],
+        "AngularDamping": 0.1,
+        "LockRotation": false
+      },
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (4) Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "Scale": [
+        7.0199995,
+        0.1
+      ],
+      "Color": "Lsxx/w==",
+      "Physics": {
+        "Type": "Static",
+        "GravityScale": 1,
+        "Mass": 1,
+        "Restitution": 0,
+        "Friction": 0.4,
+        "Velocity": [
+          0,
+          0
+        ],
+        "AngularDamping": 0.1,
+        "LockRotation": false
+      },
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (4) Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        525,
+        -150
+      ],
+      "Rotation": 0,
+      "Scale": [
+        2.3199997,
+        0.1
+      ],
+      "Color": "Lsxx/w==",
+      "Physics": {
+        "Type": "Static",
+        "GravityScale": 1,
+        "Mass": 1,
+        "Restitution": 0,
+        "Friction": 0.4,
+        "Velocity": [
+          0,
+          0
+        ],
+        "AngularDamping": 0.1,
+        "LockRotation": false
+      },
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (4) Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        750,
+        -225
+      ],
+      "Rotation": 0,
+      "Scale": [
+        2.3199997,
+        0.1
+      ],
+      "Color": "Lsxx/w==",
+      "Physics": {
+        "Type": "Static",
+        "GravityScale": 1,
+        "Mass": 1,
+        "Restitution": 0,
+        "Friction": 0.4,
+        "Velocity": [
+          0,
+          0
+        ],
+        "AngularDamping": 0.1,
+        "LockRotation": false
+      },
+      "Collider": {
+        "Shape": "Box",
+        "Size": [
+          1,
+          1
+        ],
+        "IsTrigger": false
+      },
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Sprite 1",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": 0,
+      "Position": [
+        10.739746,
+        -583.6892
+      ],
+      "Rotation": 0,
+      "Scale": [
+        0.05,
+        0.05
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null,
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (3) Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -0.16158295,
+        -1230.2183
+      ],
+      "Rotation": 0,
+      "Scale": [
+        0.77,
+        0.90999997
+      ],
+      "Color": "vMK8/w==",
+      "Physics": null,
+      "Collider": null,
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (3) Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -45.269432,
+        -1224.7368
+      ],
+      "Rotation": 0,
+      "Scale": [
+        0.31,
+        0.32
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null,
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (3) Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        44.199104,
+        -1224.3259
+      ],
+      "Rotation": 0,
+      "Scale": [
+        0.31,
+        0.32
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null,
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (3) Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        20.36677,
+        -1162.0315
+      ],
+      "Rotation": 0,
+      "Scale": [
+        0.31,
+        0.39
+      ],
+      "Color": "vMK8/w==",
+      "Physics": null,
+      "Collider": null,
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (3) Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -19.876242,
+        -1161.5752
+      ],
+      "Rotation": 0,
+      "Scale": [
+        0.31,
+        0.39
+      ],
+      "Color": "vMK8/w==",
+      "Physics": null,
+      "Collider": null,
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Square (3) Copy Copy Copy Copy Copy",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": -1,
+      "Position": [
+        -9.536339,
+        -1279.6691
+      ],
+      "Rotation": 0,
+      "Scale": [
+        0.48999998,
+        0.59
+      ],
+      "Color": "7PDx/w==",
+      "Physics": null,
+      "Collider": null,
+      "Camera": null,
+      "VisualScriptName": null
+    },
+    {
+      "Name": "Camera",
+      "Shape": "Square",
+      "Active": true,
+      "Parent": 0,
+      "Position": [
+        0,
+        -300
+      ],
+      "Rotation": 0,
+      "Scale": [
+        1,
+        1
+      ],
+      "Color": "/////w==",
+      "Physics": null,
+      "Collider": null,
+      "Camera": {
+        "Zoom": 1.4
+      },
+      "VisualScriptName": null
+    }
+  ],
+  "Vs": {
+    "Graphs": [
+      {
+        "Name": "Example Script",
+        "Pan": [
+          930,
+          415
+        ],
+        "Variables": [
+          {
+            "Id": "e5a87e65ed8541e48a5f4d962416002a",
+            "Name": "X Speed",
+            "Type": "Float"
+          },
+          {
+            "Id": "98926ed760d44c34bea2607970855e9c",
+            "Name": "Jump",
+            "Type": "Key"
+          },
+          {
+            "Id": "1f6d5d49a2f3454c8d1470d423cadf50",
+            "Name": "Checker",
+            "Type": "Entity"
+          },
+          {
+            "Id": "8b8bf97ceae74678877da9bdf0920777",
+            "Name": "Move Vector",
+            "Type": "Vector2"
+          },
+          {
+            "Id": "53d8fd214fce47118636320c5d173686",
+            "Name": "Y Speed",
+            "Type": "Float"
+          },
+          {
+            "Id": "f188885e28474ca7ab61efbbe973f8f3",
+            "Name": "Scale Vector",
+            "Type": "Vector2"
+          },
+          {
+            "Id": "ee07d82919f04ba6b8c51c768dc7bba8",
+            "Name": "Sx",
+            "Type": "Float"
+          },
+          {
+            "Id": "5698d70e3dc7425e836f6e4f2dbdacc1",
+            "Name": "Sy",
+            "Type": "Float"
+          },
+          {
+            "Id": "24c0e9811da94393a20d6d230cb8a9c3",
+            "Name": "resetx",
+            "Type": "Float"
+          },
+          {
+            "Id": "9efae4bfbc1747979a7f7abc34eb27f1",
+            "Name": "var10",
+            "Type": "Float"
+          },
+          {
+            "Id": "96078319e1ee455288b1f0e09c185977",
+            "Name": "Jump Multiplier",
+            "Type": "Float"
+          },
+          {
+            "Id": "97c932c58a554f9b89788e83895fdb77",
+            "Name": "jmp",
+            "Type": "Float"
+          },
+          {
+            "Id": "c90cf281d8ed492a9f2ccdcaa6f321b3",
+            "Name": "jumpA",
+            "Type": "Float"
+          },
+          {
+            "Id": "45095e708b64495487a3d58782e542e9",
+            "Name": "Camera",
+            "Type": "Entity"
+          },
+          {
+            "Id": "2023fe3559da4a4abba7b17cbfbd32e4",
+            "Name": "S1",
+            "Type": "Entity"
+          },
+          {
+            "Id": "8ec981b1572e4f969847f5cb7b7f3b75",
+            "Name": "S2",
+            "Type": "Entity"
+          },
+          {
+            "Id": "e1aad79c36d54719b167642b0f22c7f8",
+            "Name": "isleft",
+            "Type": "Bool"
+          },
+          {
+            "Id": "9944322388c944d2aeeef519481b705a",
+            "Name": "t",
+            "Type": "Bool"
+          },
+          {
+            "Id": "0a1b600a2a6c453bb85899fce1a78bf7",
+            "Name": "f",
+            "Type": "Bool"
+          }
+        ],
+        "Nodes": [
+          {
+            "Name": "And 3",
+            "Kind": "And",
+            "X": -80,
+            "Y": 25.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": ""
+          },
+          {
+            "Name": "Update 2",
+            "Kind": "Update",
+            "X": -508,
+            "Y": 26.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": ""
+          },
+          {
+            "Name": "MakeVector2 2",
+            "Kind": "MakeVector2",
+            "X": -711,
+            "Y": -117.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "5698d70e3dc7425e836f6e4f2dbdacc1",
+            "VarKey": "",
+            "VarValue": "f188885e28474ca7ab61efbbe973f8f3",
+            "VarAmount": "ee07d82919f04ba6b8c51c768dc7bba8"
+          },
+          {
+            "Name": "Scale 1",
+            "Kind": "Scale",
+            "X": -710,
+            "Y": 22.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 1.5,
+            "AmountY": 1.5,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": "f188885e28474ca7ab61efbbe973f8f3"
+          },
+          {
+            "Name": "Move 1",
+            "Kind": "Move",
+            "X": -543,
+            "Y": 238.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 200,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": "8b8bf97ceae74678877da9bdf0920777"
+          },
+          {
+            "Name": "ChangeVar 1",
+            "Kind": "ChangeVar",
+            "X": 237,
+            "Y": 21.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": -25,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "e5a87e65ed8541e48a5f4d962416002a",
+            "VarAmount": ""
+          },
+          {
+            "Name": "Condition 4",
+            "Kind": "Condition",
+            "X": -319,
+            "Y": 260.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Space",
+            "Trigger": "Held",
+            "Check": "FloatLess",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 200,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": "e5a87e65ed8541e48a5f4d962416002a"
+          },
+          {
+            "Name": "And 6",
+            "Kind": "And",
+            "X": 193,
+            "Y": -190.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": ""
+          },
+          {
+            "Name": "ChangeVar 9",
+            "Kind": "ChangeVar",
+            "X": 439,
+            "Y": -347.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 25,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "e5a87e65ed8541e48a5f4d962416002a",
+            "VarAmount": ""
+          },
+          {
+            "Name": "Condition 2",
+            "Kind": "Condition",
+            "X": -322,
+            "Y": 101.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": ""
+          },
+          {
+            "Name": "ChangeVar 5",
+            "Kind": "ChangeVar",
+            "X": 234,
+            "Y": 233.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 200,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "e5a87e65ed8541e48a5f4d962416002a",
+            "VarAmount": ""
+          },
+          {
+            "Name": "MakeVector2 1",
+            "Kind": "MakeVector2",
+            "X": -506,
+            "Y": -118.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "53d8fd214fce47118636320c5d173686",
+            "VarKey": "",
+            "VarValue": "8b8bf97ceae74678877da9bdf0920777",
+            "VarAmount": "e5a87e65ed8541e48a5f4d962416002a"
+          },
+          {
+            "Name": "Update 3",
+            "Kind": "Update",
+            "X": -84,
+            "Y": 400.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": ""
+          },
+          {
+            "Name": "Condition 9",
+            "Kind": "Condition",
+            "X": -90,
+            "Y": 552.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Space",
+            "Trigger": "Held",
+            "Check": "FloatLess",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": "53d8fd214fce47118636320c5d173686"
+          },
+          {
+            "Name": "ChangeVar 5",
+            "Kind": "ChangeVar",
+            "X": 213,
+            "Y": 555.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 25,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "53d8fd214fce47118636320c5d173686",
+            "VarAmount": ""
+          },
+          {
+            "Name": "And 4",
+            "Kind": "And",
+            "X": -75,
+            "Y": 220.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": ""
+          },
+          {
+            "Name": "Condition 2",
+            "Kind": "Condition",
+            "X": -323,
+            "Y": -24.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Space",
+            "Trigger": "Held",
+            "Check": "FloatGreater",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": "e5a87e65ed8541e48a5f4d962416002a"
+          },
+          {
+            "Name": "Condition 14",
+            "Kind": "Condition",
+            "X": -82,
+            "Y": -420.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Space",
+            "Trigger": "Held",
+            "Check": "FloatLess",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": "e5a87e65ed8541e48a5f4d962416002a"
+          },
+          {
+            "Name": "And 7",
+            "Kind": "And",
+            "X": 201,
+            "Y": -352.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": ""
+          },
+          {
+            "Name": "ChangeVar 8",
+            "Kind": "ChangeVar",
+            "X": 432,
+            "Y": -185.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": -200,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "e5a87e65ed8541e48a5f4d962416002a",
+            "VarAmount": ""
+          },
+          {
+            "Name": "Update 5",
+            "Kind": "Update",
+            "X": -307,
+            "Y": -353.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": ""
+          },
+          {
+            "Name": "Condition 13",
+            "Kind": "Condition",
+            "X": -82,
+            "Y": -97.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Space",
+            "Trigger": "Held",
+            "Check": "FloatGreater",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": -200,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": "e5a87e65ed8541e48a5f4d962416002a"
+          },
+          {
+            "Name": "Condition 12",
+            "Kind": "Condition",
+            "X": -99,
+            "Y": -229.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Left",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": ""
+          },
+          {
+            "Name": "ChangeVar 5 Copy",
+            "Kind": "ChangeVar",
+            "X": -310,
+            "Y": 446.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Set",
+            "Value": -700,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "53d8fd214fce47118636320c5d173686",
+            "VarAmount": "c90cf281d8ed492a9f2ccdcaa6f321b3"
+          },
+          {
+            "Name": "Math 3",
+            "Kind": "Math",
+            "X": -716,
+            "Y": 120.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Multiply",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "97c932c58a554f9b89788e83895fdb77",
+            "VarKey": "",
+            "VarValue": "c90cf281d8ed492a9f2ccdcaa6f321b3",
+            "VarAmount": "96078319e1ee455288b1f0e09c185977"
+          },
+          {
+            "Name": "Key 2",
+            "Kind": "Key",
+            "X": -520,
+            "Y": 439.5,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Pressed",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "98926ed760d44c34bea2607970855e9c",
+            "VarValue": "",
+            "VarAmount": ""
+          }
+        ],
+        "Links": [
+          {
+            "A": 0,
+            "B": 5,
+            "Port": 0
+          },
+          {
+            "A": 16,
+            "B": 0,
+            "Port": 0
+          },
+          {
+            "A": 9,
+            "B": 0,
+            "Port": 1
+          },
+          {
+            "A": 1,
+            "B": 0,
+            "Port": 0
+          },
+          {
+            "A": 9,
+            "B": 15,
+            "Port": 0
+          },
+          {
+            "A": 12,
+            "B": 15,
+            "Port": 0
+          },
+          {
+            "A": 6,
+            "B": 15,
+            "Port": 0
+          },
+          {
+            "A": 15,
+            "B": 10,
+            "Port": 0
+          },
+          {
+            "A": 1,
+            "B": 4,
+            "Port": 0
+          },
+          {
+            "A": 1,
+            "B": 11,
+            "Port": 0
+          },
+          {
+            "A": 1,
+            "B": 3,
+            "Port": 0
+          },
+          {
+            "A": 1,
+            "B": 2,
+            "Port": 0
+          },
+          {
+            "A": 12,
+            "B": 13,
+            "Port": 0
+          },
+          {
+            "A": 13,
+            "B": 14,
+            "Port": 0
+          },
+          {
+            "A": 25,
+            "B": 23,
+            "Port": 0
+          },
+          {
+            "A": 22,
+            "B": 7,
+            "Port": 0
+          },
+          {
+            "A": 21,
+            "B": 7,
+            "Port": 0
+          },
+          {
+            "A": 7,
+            "B": 19,
+            "Port": 0
+          },
+          {
+            "A": 17,
+            "B": 18,
+            "Port": 0
+          },
+          {
+            "A": 18,
+            "B": 8,
+            "Port": 0
+          },
+          {
+            "A": 22,
+            "B": 15,
+            "Port": 1
+          },
+          {
+            "A": 20,
+            "B": 18,
+            "Port": 0
+          },
+          {
+            "A": 20,
+            "B": 7,
+            "Port": 0
+          },
+          {
+            "A": 22,
+            "B": 18,
+            "Port": 1
+          },
+          {
+            "A": 1,
+            "B": 24,
+            "Port": 0
+          }
+        ]
+      },
+      {
+        "Name": "Example Script",
+        "Pan": [
+          511,
+          282
+        ],
+        "Variables": [
+          {
+            "Id": "2cef5140c1c34fbda41e15d9d2c09cc4",
+            "Name": "var1",
+            "Type": "Vector2"
+          }
+        ],
+        "Nodes": [
+          {
+            "Name": "Start",
+            "Kind": "Start",
+            "X": 0,
+            "Y": 0,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": ""
+          },
+          {
+            "Name": "Move",
+            "Kind": "Move",
+            "X": 260,
+            "Y": 40,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 200,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": ""
+          }
+        ],
+        "Links": [
+          {
+            "A": 0,
+            "B": 1,
+            "Port": 0
+          }
+        ]
+      },
+      {
+        "Name": "Example Script",
+        "Pan": [
+          0,
+          0
+        ],
+        "Variables": [],
+        "Nodes": [
+          {
+            "Name": "Start",
+            "Kind": "Start",
+            "X": 0,
+            "Y": 0,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 0,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": ""
+          },
+          {
+            "Name": "Move",
+            "Kind": "Move",
+            "X": 260,
+            "Y": 40,
+            "TargetSelf": true,
+            "Target": -1,
+            "Key": "Right",
+            "Trigger": "Held",
+            "Check": "KeyHeld",
+            "MathOp": "Add",
+            "ChangeMode": "Add",
+            "Value": 0,
+            "AmountX": 200,
+            "AmountY": 0,
+            "PerSecond": true,
+            "Circle": true,
+            "VarTarget": "",
+            "VarKey": "",
+            "VarValue": "",
+            "VarAmount": ""
+          }
+        ],
+        "Links": [
+          {
+            "A": 0,
+            "B": 1,
+            "Port": 0
+          }
+        ]
+      }
+    ],
+    "Instances": [
+      {
+        "Entity": 0,
+        "Graph": 0,
+        "Enabled": true,
+        "Values": [
+          {
+            "Id": "e5a87e65ed8541e48a5f4d962416002a",
+            "F": 0,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "98926ed760d44c34bea2607970855e9c",
+            "F": 0,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Up",
+            "Entity": -1
+          },
+          {
+            "Id": "1f6d5d49a2f3454c8d1470d423cadf50",
+            "F": 0,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "8b8bf97ceae74678877da9bdf0920777",
+            "F": 0,
+            "B": false,
+            "X": 0,
+            "Y": 9.999939,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "53d8fd214fce47118636320c5d173686",
+            "F": 9.999939,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "f188885e28474ca7ab61efbbe973f8f3",
+            "F": 0,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "ee07d82919f04ba6b8c51c768dc7bba8",
+            "F": 0,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "5698d70e3dc7425e836f6e4f2dbdacc1",
+            "F": 0,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "24c0e9811da94393a20d6d230cb8a9c3",
+            "F": 0,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "9efae4bfbc1747979a7f7abc34eb27f1",
+            "F": 0,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "96078319e1ee455288b1f0e09c185977",
+            "F": 1.2,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "97c932c58a554f9b89788e83895fdb77",
+            "F": -700,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "c90cf281d8ed492a9f2ccdcaa6f321b3",
+            "F": -840.00006,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "45095e708b64495487a3d58782e542e9",
+            "F": 0,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "8ec981b1572e4f969847f5cb7b7f3b75",
+            "F": 0,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "e1aad79c36d54719b167642b0f22c7f8",
+            "F": 0,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "9944322388c944d2aeeef519481b705a",
+            "F": 0,
+            "B": true,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "0a1b600a2a6c453bb85899fce1a78bf7",
+            "F": 0,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": -1
+          },
+          {
+            "Id": "2023fe3559da4a4abba7b17cbfbd32e4",
+            "F": 0,
+            "B": false,
+            "X": 0,
+            "Y": 0,
+            "Key": "Space",
+            "Entity": 11
+          }
+        ]
+      }
+    ]
+  }
+}
