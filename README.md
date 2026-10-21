@@ -1,4 +1,5 @@
 # Smoothie-Engine
+## Source code may be outdated from the .exe!
 ------------------
 ## Features
 - Physics Simulation
@@ -51,6 +52,8 @@ and download the EXE file.
 ### Math
  - Performs a math operation between two floats
 ### Vec2
- - Puts together a Vector2 from a float
+ - Puts together a Vector2 from a floatc
 ### Get Pos
  - Gets the position of an object and sets it to a Vector2
+### Repeat Loop
+ - Repeats the code until a condition is met
